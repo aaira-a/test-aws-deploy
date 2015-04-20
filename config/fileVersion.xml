@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<staticFiles>
+	<file url="css/css001.css">
+		<fileType>css</fileType>
+		<fileVersion>20150520-001</fileVersion>
+	</file>
+	<file url="css/csssub/css002.css">
+		<fileType>css</fileType>
+		<fileVersion>20150520-001</fileVersion>
+	</file>
+	<file url="scripts/js001.js">
+		<fileType>js</fileType>
+		<fileVersion>20150520-001</fileVersion>
+	</file>
+</staticFiles>

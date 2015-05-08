@@ -13,4 +13,12 @@
 		<fileType>js</fileType>
 		<fileVersion>20150508-001</fileVersion>
 	</file>
+	<file url="images/image001.png">
+		<fileType>image</fileType>
+		<fileVersion>20050508-001</fileVersion>
+	</file>
+	<file url="images/imgfolder/image002.png">
+		<fileType>image</fileType>
+		<fileVersion>20050508-001</fileVersion>
+	</file>
 </staticFiles>

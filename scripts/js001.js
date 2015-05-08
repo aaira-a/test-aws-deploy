@@ -15,3 +15,4 @@ today =  days[now.getDay()] + ", " +
          (fourdigits(now.getYear())) ;
 
 document.write(today);
+

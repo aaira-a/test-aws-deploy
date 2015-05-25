@@ -3,7 +3,7 @@
 <staticFiles>
 	<file url="css/css001.css">
 		<fileType>css</fileType>
-		<fileVersion>20150524</fileVersion>
+		<fileVersion>20150525</fileVersion>
 	</file>
 	<file url="css/csssub/css002.css">
 		<fileType>css</fileType>
@@ -11,7 +11,7 @@
 	</file>
 	<file url="scripts/js001.js">
 		<fileType>js</fileType>
-		<fileVersion>20150524</fileVersion>
+		<fileVersion>20150525</fileVersion>
 	</file>
 	<file url="images/image001.png">
 		<fileType>image</fileType>
